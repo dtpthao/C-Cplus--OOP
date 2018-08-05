@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1456729284 source:e:\thao\2 kurc\tpro\lbtpro\lab1_ki2_kurc2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
